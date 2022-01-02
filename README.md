@@ -2,7 +2,7 @@
 
 <p align="left"> 
   🐼 Olá, me chamo Gabriel Kasten e sou <strong> iniciante na arte de programar! </strong><br>
-     E estou atualmente estudando <strong>Engenharia de Software</strong> na Católica.
+     Atualmente estudando <strong>Engenharia de Software</strong> na Católica.
 </p>
 
 <p align="left">
