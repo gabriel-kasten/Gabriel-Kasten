@@ -1,17 +1,16 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </p>
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Muito prazer, me chamo Gabriel Kasten e sou iniciante na arte de programar!<br>
-  Atualmente estudando Engenharia de Software na Católica.
+  🐼 Olá, me chamo Gabriel Kasten e sou <strong> iniciante na arte de programar! </strong><br>
+     E estou atualmente estudando <strong>Engenharia de Software</strong> na Católica.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code</strong>
+ 🌎 Habilidades: <strong>C++ (arduino), C# e Python</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Visual Studio Code, Git e Git</strong>
 </p>
 
 <p align="left">
@@ -27,5 +26,6 @@
 
   <a href="https://api.whatsapp.com/send?phone=5547988318486" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547988318486"/></a>
+  
   
   
