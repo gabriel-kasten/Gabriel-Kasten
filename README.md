@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 🌎 Habilidades: <strong>C++ (arduino), C# e Python</strong>
+ 🌎 Habilidades: <strong>C, C++ (arduino), C# e Python</strong>
 </p>
 
 <p align="left">
