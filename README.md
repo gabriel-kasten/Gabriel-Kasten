@@ -28,6 +28,4 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547988318486"/>
   </a>
 
-[![Gabriel-Kasten](https://github-readme-stats.vercel.app/api?username=Gabriel-Kasten&theme=tokyonight)](https://github.com/Gabriel-Kasten/)
-
 [![Gabriel-Kasten](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Kasten&hide=html&layout=compact&theme=tokyonight)](https://github.com/Gabriel-Kasten/)
