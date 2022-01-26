@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Git e GitHub</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Code::Blocks e Git</strong>
 </p>
 
 <p align="left">
