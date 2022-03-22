@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 🌎 Habilidades: <strong>Pau pra toda obra, mestre de nada</strong>
+ 🌎 Habilidades: <strong>Back-End</strong>
 </p>
 
 <p align="left">
