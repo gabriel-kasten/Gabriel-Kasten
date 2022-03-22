@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 🌎 Habilidades: <strong>Back-End</strong>
+ 🌎 Habilidades: <strong>Dev</strong>
 </p>
 
 <p align="left">
